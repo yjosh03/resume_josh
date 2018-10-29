@@ -6,7 +6,9 @@ h1 {
 	text-align:center;
     color: lightgray;
 }
-
+h2 {
+	text-decoration: underline;
+}
 .haley{
 	background-color: lightgray;
     margin-right: 100px;
