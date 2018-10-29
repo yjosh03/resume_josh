@@ -35,7 +35,7 @@ p.thick {
     font-weight: bold;
 }
 .sidenav {
-    height: 85%;
+    height: 100%;
     width: 200px;
     position: fixed;
     z-index: 1;
