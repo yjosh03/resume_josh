@@ -27,10 +27,8 @@ h3{
 }
 p{
 	font-family: "Times New Roman", Times, serif;
+	margin-left: 220px;
 	
-}
-p.thick {
-    font-weight: bold;
 }
 
 .sidenav {
