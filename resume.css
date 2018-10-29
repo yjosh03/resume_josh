@@ -8,7 +8,9 @@ h1 {
 }
 
 .haley{
-    background-color: lightgray;
-    border: 2px solid gray;
+	background-color: lightgray;
+	width: 300px;
+    margin: auto;
+	border: 2px solid gray;
     border-radius: 5px;
 }
