@@ -1,6 +1,7 @@
 body {
     background-color: black;
 }
+
 h1 {
 	text-align:center;
     color: lightgray;
@@ -22,6 +23,10 @@ p{
 	font-weight: bold;
 	
 }
+p.thick {
+    font-weight: bold;
+}
+
 .sidenav {
     height: 80%;
     width: 200px;
@@ -32,9 +37,15 @@ p{
     background-color: black;
     overflow-x: hidden;
 }
+
 .sidenav p {
     color: white;
     padding: 16px;
     text-decoration: none;
     display: block;
+}
+
+.content {
+    margin-left: 200px;
+    padding-left: 20px;
 }
