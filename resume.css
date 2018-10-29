@@ -1,7 +1,6 @@
 body {
     background-color: gray;
 }
-
 h1 {
 	text-align:center;
     color: black;
@@ -12,6 +11,7 @@ h1 {
 h2 {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	text-decoration: underline;
+	margin-left: 210px;
 	padding-top: 20px;
 }
 h3{
