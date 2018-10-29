@@ -42,7 +42,7 @@ p.thick {
 }
 .sidenav p {
 	background-color: lightgray;
-	border: 2px solid black;
+	border: 2px solid #006600;
     outline: #4CAF50 solid 10px;
     text-align: center;
     color: black;
