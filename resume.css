@@ -1,15 +1,15 @@
-body {
+body{
     background-color: gray;
 }
 
-h1 {
+h1{
 	text-align:center;
     color: black;
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 40px;
 	letter-spacing: 5px;
 }
-h2 {
+h2{
 	font-family: Verdana, Geneva, sans-serif;
 	text-decoration: underline;
 }
@@ -23,17 +23,16 @@ h3{
 	background-color: lightgray;
 	border: 2px solid #006600;
 	margin-left: 210px;
-	padding-left: 15px;
-	padding-bottom: 15px;
-	margin-left: 10px;
+	padding: 15px;
+	margin-bottom: 10px;
 }
 p{
 	font-family: Verdana, Geneva, sans-serif;
 }
-p.thick {
+p.thick{
     font-weight: bold;
 }
-.sidenav {
+.sidenav{
     height: 100%;
     width: 200px;
     position: fixed;
@@ -42,7 +41,7 @@ p.thick {
     left: 0;
     background-color: black;
 }
-.sidenav p {
+.sidenav p{
 	background-color: lightgray;
 	border: 2px solid #006600;
     text-align: center;
