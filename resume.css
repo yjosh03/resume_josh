@@ -1,6 +1,7 @@
 body {
     background-color: gray;
 }
+
 h1 {
 	text-align:center;
     color: black;
@@ -47,7 +48,7 @@ p.thick {
 	background-color: lightgray;
     color: black;
 	margin-left: 10px;
-	margin-right: 10px
+	margin-right: 10px;
     padding: 16px;
     text-decoration: none;
     display: block;
