@@ -5,7 +5,8 @@ body {
 h1 {
 	text-align:center;
     color: lightgray;
-	font-family: "Times New Roman", Times, serif;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 40px;
 }
 h2 {
 	text-decoration: underline;
