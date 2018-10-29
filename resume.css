@@ -1,15 +1,15 @@
-body{
+body {
     background-color: gray;
 }
 
-h1{
+h1 {
 	text-align:center;
     color: black;
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 40px;
 	letter-spacing: 5px;
 }
-h2{
+h2 {
 	font-family: Verdana, Geneva, sans-serif;
 	text-decoration: underline;
 }
@@ -22,6 +22,7 @@ h3{
 .haley{
 	background-color: lightgray;
 	border: 2px solid #006600;
+	border-radius: 10px;
 	margin-left: 210px;
 	padding: 15px;
 	margin-bottom: 10px;
@@ -29,10 +30,10 @@ h3{
 p{
 	font-family: Verdana, Geneva, sans-serif;
 }
-p.thick{
+p.thick {
     font-weight: bold;
 }
-.sidenav{
+.sidenav {
     height: 100%;
     width: 200px;
     position: fixed;
@@ -41,9 +42,10 @@ p.thick{
     left: 0;
     background-color: black;
 }
-.sidenav p{
+.sidenav p {
 	background-color: lightgray;
 	border: 2px solid #006600;
+	border-radius: 10px;
     text-align: center;
     color: black;
 	margin-left: 10px;
