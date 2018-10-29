@@ -5,18 +5,18 @@ body {
 h1 {
 	text-align:center;
     color: black;
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-family: Verdana, Geneva, sans-serif;
 	font-size: 40px;
 	letter-spacing: 5px;
 }
 h2 {
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-family: Verdana, Geneva, sans-serif;
 	text-decoration: underline;
 }
 h3{
 	text-align:center;
     color: lightgray;
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-family: Verdana, Geneva, sans-serif;
 	font-size: 20px;
 }
 .haley{
@@ -27,7 +27,7 @@ h3{
 	padding-bottom: 15px;
 }
 p{
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-family: Verdana, Geneva, sans-serif;
 }
 p.thick {
     font-weight: bold;
