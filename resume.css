@@ -3,13 +3,13 @@ body {
 }
 
 h1 {
+	text-align:center;
     color: white;
-    margin-left: 60px;
 }
 
 .haley{
 	background-color: lightgray;
-	width: 300px;
+	width: 500px;
     margin: auto;
 	border: 2px solid gray;
     border-radius: 5px;
