@@ -27,7 +27,12 @@ h3{
 }
 p{
 	font-family: "Times New Roman", Times, serif;
+	
 }
+p.thick {
+    font-weight: bold;
+}
+
 .sidenav {
     height: 80%;
     width: 200px;
@@ -38,6 +43,7 @@ p{
     background-color: black;
     overflow-x: hidden;
 }
+
 .sidenav p {
     color: white;
     padding: 16px;
