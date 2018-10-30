@@ -1,5 +1,5 @@
 body {
-    background-color: gray;
+    background-color: lightgray;
 }
 
 h1 {
@@ -21,7 +21,7 @@ h3{
 }
 .haley{
 	font-family: Verdana, Geneva, sans-serif;
-	background-color: lightgray;
+	background-color: gray;
 	border: 2px solid #006600;
 	border-radius: 10px;
 	margin-left: 210px;
@@ -45,7 +45,7 @@ p.thick {
     background-color: black;
 }
 .sidenav p {
-	background-color: lightgray;
+	background-color: gray;
 	border: 2px solid #006600;
 	border-radius: 10px;
     text-align: center;
