@@ -1,5 +1,5 @@
 body {
-    background-color: lightgray;
+    background-color: gray;
 }
 
 h1 {
@@ -21,7 +21,7 @@ h3{
 }
 .haley{
 	font-family: Verdana, Geneva, sans-serif;
-	background-color: gray;
+	background-color: lightgray;
 	border: 2px solid #006600;
 	border-radius: 10px;
 	margin-left: 210px;
