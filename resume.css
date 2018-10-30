@@ -18,7 +18,7 @@ h3{
     color: black;
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 20px;
-	background-color: lightgray;
+	background-color: gray;
 	border: 2px solid #006600;
 	border-radius: 5px;
 	margin-left: 210px;
@@ -47,10 +47,10 @@ p.thick {
     z-index: 1;
     bottom: 0;
     left: 0;
-    background-color: black;
+    background-color: gray;
 }
 .sidenav p {
-	background-color: gray;
+	background-color: lightgray;
 	border: 2px solid #006600;
 	border-radius: 10px;
     text-align: center;
