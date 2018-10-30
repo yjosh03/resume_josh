@@ -18,6 +18,9 @@ h3{
     color: black;
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 20px;
+	background-color: lightgray;
+	border: 2px solid #006600;
+	border-radius: 10px;
 }
 .haley{
 	font-family: Verdana, Geneva, sans-serif;
