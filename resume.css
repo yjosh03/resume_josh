@@ -4,7 +4,7 @@ body {
 
 h1 {
 	text-align:center;
-    color: black;
+    	color: black;
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 40px;
 	letter-spacing: 5px;
@@ -18,7 +18,7 @@ h3{
     color: black;
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 20px;
-	background-color: gray;
+	background-color: lightgray;
 	border: 2px solid #006600;
 	margin-left: 210px;
 	margin-bottom: 10px;
@@ -45,7 +45,7 @@ p.thick {
     z-index: 1;
     bottom: 0;
     left: 0;
-    background-color: gray;
+    background-color: lightgray;
 }
 .sidenav p {
 	background-color: lightgray;
